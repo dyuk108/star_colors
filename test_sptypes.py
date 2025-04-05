@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 #
 # Тестирование функции определения Teff по сп. классу.
+# Использует функции из star_colors.py
 
 from star_colors import sptype2t
 
